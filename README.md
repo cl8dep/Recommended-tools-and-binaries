@@ -11,3 +11,6 @@
 ## Blazor
 * [Skclusive.Material.Component](https://github.com/skclusive/Skclusive.Material.Component)
 ![](https://github.com/skclusive/Skclusive.Blazor.Samples/raw/master/images/dashboard-web.gif)
+
+## Utils
+* [Download a folder from Github repository](https://download-directory.github.io/?url=)
