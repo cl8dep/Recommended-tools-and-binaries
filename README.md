@@ -14,3 +14,4 @@
 
 ## Utils
 * [Download a folder from Github repository](https://download-directory.github.io/?url=)
+* [Clone and download any website](https://www.toolsbug.com/website-copier-online.php)
